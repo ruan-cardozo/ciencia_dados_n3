@@ -1,3 +1,7 @@
+# Alunos
+* Guilherme Elias Kopsch
+* Guilherme Ricardo Machado
+* Ruan Diego Velloso Cardozo
 # Projeto Final de Ciência de Dados: Previsão de Preços de Imóveis
 
 Este projeto demonstra o ciclo completo de um projeto de Ciência de Dados, desde a concepção do problema até a entrega de um modelo preditivo funcional, conforme os requisitos da Avaliação N3.
